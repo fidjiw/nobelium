@@ -18,7 +18,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: '', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://xfeng.io',
+  //socialLink: 'https://xfeng.io',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
